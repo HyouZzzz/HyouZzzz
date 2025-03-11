@@ -13,7 +13,7 @@
   - 🔭 I'm currently looking for a job opportunity as a DevOps Engineer!
   - Previous Jobs: 
     - [Delaware Consulting](https://www.delaware.pro/)
-    - [Mons University (Fullstack)]
+    - Mons University (Dev-Fullstack)
   - 🌱 I’m currently learning :
         - [Kubernetes](https://kubernetes.io/)
         - [Docker](https://www.docker.com/)
