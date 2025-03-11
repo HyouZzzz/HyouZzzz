@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**HyouZzzz/HyouZzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🇫🇷 About Me:
+ - 🔭 I’m currently seeking for a job opportunity as a DevOps Engineer !
+ - Previous Jobs: 
+ - [Delaware Consulting](https://www.delaware.pro/)
+ - [Mons University (Fullstack)]
+ - 🌱 I’m currently learning :
+       - [Kubernetes](https://kubernetes.io/)
+       - [Docker](https://www.docker.com/)
+       - [Jenkins](https://www.jenkins.io/)
+       - [Terraform](https://www.terraform.io/)
+       - [AWS](https://aws.amazon.com/)
+ - 📫 How to reach me: [mail](mailto:lucz1640@gmail.com)
